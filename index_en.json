@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "How to Invest in 2025",
+    "summary": "A modern guide to start investing in 2025.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/001_header.png",
+    "file": "articles/en/001_investing_2025.md",
+    "published": "2025-01-14"
+  },
+  {
+    "id": 2,
+    "title": "Common Beginner Mistakes",
+    "summary": "The 7 most frequent mistakes new investors make and how to avoid them.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/002_header.png",
+    "file": "articles/en/002_common_mistakes.md",
+    "published": "2025-01-18"
+  },
+  {
+    "id": 3,
+    "title": "How to Diversify a Portfolio",
+    "summary": "Why diversification is essential to reduce risk and increase long-term stability.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/003_header.png",
+    "file": "articles/en/003_how_to_diversify.md",
+    "published": "2025-01-22"
+  }
+]

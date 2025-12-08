@@ -22,5 +22,13 @@
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/003_header.png",
     "file": "articles/es/003_como_diversificar.md",
     "published": "2025-01-22"
+  },
+  {
+    "id": 4,
+    "title": "Super Mario Bros. Podría Convertirte en un Mejor Inversionista",
+    "summary": "Un viejo juego de los años 80 con una lección moderna sobre resiliencia y perseverancia.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/010_header.png",
+    "file": "articles/es/010_mario_investing.md",
+    "published": "2025-12-08"
   }
 ]

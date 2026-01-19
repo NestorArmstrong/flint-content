@@ -1,0 +1,23 @@
+# Por Qué El Mejor Inversionista Del Mundo Aconseja No Invertir En Acciones
+
+Warren Buffett, a menudo considerado como el inversionista más famoso del mundo, tiene un consejo sorprendentemente paradójico para los inversores inexpertos: evita seleccionar acciones por tu cuenta. En su lugar, este inversor veterano sugiere utilizar fondos indexados. Dicha recomendación podría parecer para algunos contradictoria viniendo de Warren, quien que ha construido una fortuna con astutas selecciones de acciones, pero hay varias razones por las que el Oráculo de Omaha esta convencido de que esta técnica no aplica para la mayoría de las personas.
+
+El principal argumento de Buffett se centra en la gran complejidad que involucra seleccionar acciones. Invertir en acciones individuales requiere una comprensión profunda de las empresas, sus industrias y el entorno económico en general. Incluso con estos conocimientos, predecir los movimientos del mercado y el rendimiento futuro de acciones específicas es extremadamente difícil. La mayoría de los inversores carecen del tiempo, los recursos y la experiencia para hacer consistentemente buenas decisiones sobre sus acciones.
+
+Solo tenemos que observar el rendimiento de los gestores de fondos profesionales para ilustrar su punto. A pesar de su experiencia y recursos, muchos gestores de fondos profesionales no logran superar consistentemente al mercado. Y si los 'profesionales' tienen dificultades, es aún más desalentador para los inversores aficionados tener éxito en este rubro. En una carta de 2016 a los accionistas de Berkshire Hathaway, Buffett destacó cómo los fondos y gestores de inversion a menudo no logran superar a los fondos indexados de bajo costo a largo plazo.
+
+Los datos respaldan esta noción. Estudios han demostrado que la mayoría de los fondos de inversión que son gestionados activamente no superan sus índices de referencia después de considerar las comisiones cobradas a sus clientes. Según el informe SPIVA (S&P Indices Versus Active), un porcentaje significativo (más del 66%) de los fondos gestionados activamente no supera a sus respectivos índices de referencia. Esto sugiere que incluso los profesionales tienen dificultades para vencer al mercado, reforzando el consejo para los inversores menos versados de evitar la selección de acciones.
+
+Los fondos indexados suelen tener comisiones más bajas que los fondos gestionados activamente porque siguen pasivamente un índice de mercado, como el S&P 500, en lugar de intentar seleccionar acciones ganadoras. Comisiones más bajas significan que más de tu dinero está realmente invertido y creciendo a lo largo del tiempo. Además, los fondos indexados proporcionan diversificación instantánea, distribuyendo tu dinero en muchas empresas y sectores diferentes, reduciendo así el riesgo en comparación a invertir en acciones puntuales.
+
+Warren reveló en su carta del 2013 a los accionistas de Berkshire Hathaway que ha instruido al fideicomisario de su herencia a invertir el 90% de su dinero en un fondo indexado de bajo costo del S&P 500 y el resto en bonos gubernamentales a corto plazo. Esta simple estrategia refleja su creencia en el rendimiento a largo plazo del mercado de valores sobre cualquier otro método más activo.
+
+Finalmente, hay una ventaja en permanecer invertido a largo plazo. Las fluctuaciones de mercado son normales, y tratar de cronometrar el mercado o elegir la próxima acción ganadora puede llevar a malas decisiones impulsadas por emociones en lugar de la lógica. Los fondos indexados fomentan una estrategia de compra y retención, que se alinea con la misma filosofía de inversión de Buffett: encontrar buenas inversiones y mantenerlas por muchos años.
+
+---
+
+### ¿Deberías entonces escoger tus propias acciones?
+
+Es por estas razones y más que los inversores inexpertos deberían considerar abstenerse de seleccionar acciones por su cuenta dado que es difícil, lleva mucho tiempo y a menudo es menos rentable que simplemente invertir en fondos indexados de bajo costo. Siguiendo el consejo de Warren, los inversores podrían beneficiarse de un crecimiento a largo plazo, reducir su riesgo mediante la diversificación y evitar las altas comisiones junto con otros posibles inconvenientes de la selección activa de acciones. 
+
+Este enfoque sencillo podría ayudarte a lograr mejores resultados financieros con menos estrés y esfuerzo. Ya que a diferencia de un trabajo convencional, trabajar más arduamente en tus inversiones no siempre te dará mejores resultados. En su lugar trabaja más inteligentemente, para así lograr un mejor futuro tanto para ti como para tu familia.

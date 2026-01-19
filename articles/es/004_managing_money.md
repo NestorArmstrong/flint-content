@@ -6,7 +6,7 @@ Uno de los primeros efectos es la sensación constante de que el dinero “no al
 
 Luego aparece la deuda. Sin un plan claro, es común usar la tarjeta de crédito o pedir préstamos para cubrir gastos del día a día. Al principio parece una solución, pero con el tiempo los intereses hacen que paguemos mucho más de lo que realmente gastamos. Esto puede convertirse en un círculo difícil de romper y generar mucho estrés.
 
-Otro problema importante es no estar preparados para emergencias. Un gasto inesperado —como una reparación, una visita al médico o una pérdida de ingresos— puede desestabilizar completamente nuestras finanzas si no tenemos ahorros. En esos momentos, la falta de administración financiera se siente con más fuerza.
+Otro problema importante es no estar preparados para emergencias. Un gasto inesperado como una reparación, una visita al médico o una pérdida de ingresos puede desestabilizar completamente nuestras finanzas si no tenemos ahorros. En esos momentos, la falta de administración financiera se siente con más fuerza.
 
 Diversos estudios respaldan esta realidad. Por ejemplo, un estudio en el 2021 de la National Endowment for Financial Education (NEFE) encontró que las personas con bajos niveles de educación y planificación financiera tienen mayor probabilidad de vivir “al día”, acumular deuda y reportar altos niveles de estrés financiero. Las investigaciones más recientes han mostrado que una parte significativa de los adultos no podría cubrir un gasto inesperado moderado sin endeudarse.
 

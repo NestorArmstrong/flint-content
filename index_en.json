@@ -21,18 +21,26 @@
     "summary": "Sometimes markets can run out of skeptics... but not risk.",
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/003_header.png",
     "file": "articles/en/003_market_dangerous.md",
-    "published": "2025-10-22"
+    "published": "2025-03-22"
+  },
+    {
+    "id": 4,
+    "title": "Why Managing Your Money Matters",
+    "summary": "What can't be measured, can't be managed. Including money.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/004_header.png",
+    "file": "articles/en/004_managing_money.md",
+    "published": "2025-04-30"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "Market Madness: Why Sitting Still Might Be Your Best Move",
     "summary": "Sometimes not doing anything is the best sound financial advance.",
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/009_header.png",
     "file": "articles/en/009_market_madness.md",
-    "published": "2025-11-08"
+    "published": "2025-09-08"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "How Super Mario Bros. Could Make You a Better Investor",
     "summary": "An old 1980's game with a modern lesson about resilience and perseverance.",
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/010_header.png",

@@ -33,6 +33,14 @@
   },
   {
     "id": 5,
+    "title": "When Winning the Lottery Ruins You",
+    "summary": "Ever wondered what happens to lottery winners after they win?",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/005_header.png",
+    "file": "articles/en/005_lottery.md",
+    "published": "2025-05-08"
+  },
+  {
+    "id": 6,
     "title": "Market Madness: Why Sitting Still Might Be Your Best Move",
     "summary": "Sometimes not doing anything is the best sound financial advance.",
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/009_header.png",
@@ -40,7 +48,7 @@
     "published": "2025-09-08"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "How Super Mario Bros. Could Make You a Better Investor",
     "summary": "An old 1980's game with a modern lesson about resilience and perseverance.",
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/010_header.png",

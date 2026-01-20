@@ -5,7 +5,7 @@ Está diseñado para quien invierte.
 
 Esto no es una teoría ni una conspiración: es simplemente cómo funcionan las reglas.
 
-Primero, pensemos en el **consumo**. Cada vez que compras algo: un café, una suscripción o un celular; ese dinero no desaparece. Termina en una empresa. Y detrás de casi todas las empresas hay inversores, los verdaderos dueños de las compañías. Estas personas no trabajan en el mostrador ni fabrican el producto, pero ganan cada vez que el consumidor realiza una compra. 
+Primero, pensemos en el **consumo**. Cada vez que compras algo: un café, una suscripción o un celular; ese dinero no desaparece. Termina en una empresa. Y detrás de casi todas las empresas hay inversores, los verdaderos dueños de las compañías. Estas personas no trabajan en el mostrador ni fabrican el producto, pero ganan dinero cada vez que el consumidor realiza una compra. 
 
 Luego está la **inflación**. Para la mayoría de las personas, la inflación se siente como precios más altos y dinero que alcanza para menos. Pero para los inversores suele ser lo contrario. Las empresas suben precios, venden más caro y, muchas veces, ganan más. Eso hace que el valor de las empresas y las inversiones suba con el tiempo. Los sueldos, en cambio, suelen tardar en subir y dejan al trabajador siempre un paso atrás.
 

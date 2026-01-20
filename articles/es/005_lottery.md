@@ -1,6 +1,6 @@
 # Ganarte la Lotería Podría Arruinar tu Vida
 
-Ganar la lotería parece el sueño definitivo: libertad financiera instantánea, cero preocupaciones y una vida resuelta. Sin embargo, la realidad es mucho menos glamorosa. Una gran parte de los ganadores de lotería pierde su dinero a los pocos años. Algunos incluso terminan peor que antes de ganar.
+Ganar la lotería parece el sueño definitivo: libertad financiera instantánea, cero preocupaciones y una vida resuelta. Sin embargo, la realidad es mucho menos glamorosa. Una gran parte de los ganadores de lotería pierde su dinero a los pocos años. Algunos, incluso, terminan peor que antes de ganar.
 
 No se trata de mala suerte, sino falta de estructura financiera.
 

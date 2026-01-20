@@ -1,4 +1,4 @@
-# Administrar Tu Dinero Importa
+# ¡Administrar Tu Dinero Sí Importa!
 
 A muchas personas les pasa: el dinero entra, el dinero sale… y al final del mes no queda claro en qué se fue. No es falta de inteligencia ni de esfuerzo, es simplemente falta de organización financiera. El problema es que, cuando no administramos nuestro dinero, las consecuencias suelen aparecer poco a poco y, muchas veces, cuando ya es tarde.
 

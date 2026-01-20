@@ -54,5 +54,13 @@
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/010_header.png",
     "file": "articles/en/010_mario_investing.md",
     "published": "2025-12-08"
+  },
+  {
+    "id": 8,
+    "title": "It’s Not About Working More. It’s About Investing",
+    "summary": "Why are investors making so much money while workers feel left behind?",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/011_header.png",
+    "file": "articles/en/011_working_vs_investing.md",
+    "published": "2025-12-08"
   }
 ]

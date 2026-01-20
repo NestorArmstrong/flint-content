@@ -54,5 +54,13 @@
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/010_header.png",
     "file": "articles/es/010_mario_investing.md",
     "published": "2025-12-08"
+  },
+  {
+    "id": 8,
+    "title": "No se Trata de Trabajar Más. Se Trata de Invertir",
+    "summary": "¿Por qué los inversionistas se hacen más ricos mientras que los empleados se quedan atrás?",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/011_header.png",
+    "file": "articles/es/011_working_vs_investing.md",
+    "published": "2026-01-20"
   }
 ]

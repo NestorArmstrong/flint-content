@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "title": "Administrar Tu Dinero Importa",
+    "title": "¡Administrar Tu Dinero Sí Importa!",
     "summary": "Lo que no se puede medir, no se puede administrar. Eso incluye el dinero.",
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/004_header.png",
     "file": "articles/es/004_managing_money.md",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "title": "Cuando Ganar la Lotería te Arruina",
+    "title": "Ganarte la Lotería Podría Arruinar tu Vida",
     "summary": "¿Te has preguntado alguna vez qué vidas tienen los ganadores de la lotería?",
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/005_header.png",
     "file": "articles/es/005_lottery.md",

@@ -62,5 +62,13 @@
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/011_header.png",
     "file": "articles/en/011_working_vs_investing.md",
     "published": "2026-01-20"
+  },
+  {
+    "id": 9,
+    "title": "Gold Isn’t a Safe Haven. It’s a Signal.",
+    "summary": "When gold moves, it's often wise to pay attention to what it actually means.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/012_header.png",
+    "file": "articles/en/012_gold_signal.md",
+    "published": "2026-02-09"
   }
 ]

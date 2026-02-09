@@ -46,5 +46,3 @@ Gold says: “The future might disappoint.”
 So when gold rises, it’s not telling you what will happen next. It’s telling you how people feel about the rules of the game right now. 
 
 And that distinction matters more than any price chart.
-
----

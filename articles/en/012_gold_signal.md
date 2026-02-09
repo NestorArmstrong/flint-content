@@ -8,14 +8,16 @@ But that explanation skips the most interesting part. Gold doesn’t actually pr
 
 ## Why People Really Buy Gold
 
-Gold doesn’t grow businesses. It doesn’t create jobs. It doesn’t invent anything new.
+Gold doesn’t grow businesses.
+It doesn’t create jobs.
+It doesn’t invent anything new.
 
 So why do people rush to it? Because gold sits outside the financial system.
 
 No government controls it. No central bank can print more of it. No company can mismanage it.
 
-When investors buy gold, they’re not saying “this will grow.”  
-They’re saying: “I don’t trust what’s happening around me.”
+When investors buy gold, they’re not saying *“this will grow.”*  
+They’re saying: *“I don’t trust what’s happening around me.”*
 
 Gold tends to do well during moments when confidence cracks:
 * When people question currencies like the dollar, the euro or the peso
@@ -26,11 +28,13 @@ And it’s not about stock market crashes alone. That’s why gold sometimes ris
 
 ## Why Gold Feels Safe
 
-Gold feels safe because it doesn’t do anything. There’s no CEO to disappoint you, no earnings report to miss expectations, or new technologies that makes it obsolete. It just sits there.
+Gold feels safe because it doesn’t do anything. 
 
-But “not changing” isn’t the same as “helping.” 
+There’s no CEO to disappoint you, no earnings report to miss expectations, or new technologies that makes it obsolete. It just sits there.
 
-Gold doesn’t build wealth over time. It preserves value if your worries turn out to be right. And that’s a very big “if.”
+But *“not changing”* isn’t the same as *“helping.”* 
+
+Gold doesn’t build wealth over time. It preserves value if your worries turn out to be right. And that’s a very big *“if.”*
 
 ## Stocks vs Gold Outlook
 
@@ -40,8 +44,8 @@ Why? Because stocks are optimistic. They assume people will keep solving problem
 
 Gold, on the other hand, is skeptical. It assumes systems break, mistakes repeat, and trust erodes.
 
-Stocks say: “The future will be better.”
-Gold says: “The future might disappoint.”
+Stocks say: *“The future will be better.”*
+Gold says: *“The future might disappoint.”*
 
 So when gold rises, it’s not telling you what will happen next. It’s telling you how people feel about the rules of the game right now. 
 

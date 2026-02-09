@@ -62,5 +62,13 @@
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/011_header.png",
     "file": "articles/es/011_working_vs_investing.md",
     "published": "2026-01-20"
+  },
+  {
+    "id": 9,
+    "title": "El Oro no es un Refugio. Es una Señal.",
+    "summary": "Cuando el oro se mueve, siempre es prudente investigar las razones detrás de ello.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/012_header.png",
+    "file": "articles/es/012_gold_signal.md",
+    "published": "2026-02-09"
   }
 ]

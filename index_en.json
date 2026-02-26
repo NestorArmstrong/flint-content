@@ -70,5 +70,13 @@
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/012_header.png",
     "file": "articles/en/012_gold_signal.md",
     "published": "2026-02-09"
+  },
+  {
+    "id": 10,
+    "title": "Why Diversification Fails When It Matters Most",
+    "summary": "When markets fail, everyone wants to get out at the same time. And that's dangerous.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/013_header.png",
+    "file": "articles/en/013_diver_fail.md",
+    "published": "2026-02-26"
   }
 ]

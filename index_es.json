@@ -70,5 +70,13 @@
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/012_header.png",
     "file": "articles/es/012_gold_signal.md",
     "published": "2026-02-09"
+  },
+  {
+    "id": 10,
+    "title": "Por Qué la Diversificación Falla Cuando Más Importa",
+    "summary": "Cuando los mercados fallan, todos quieren salir al mismo tiempo. Y eso es peligroso.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/013_header.png",
+    "file": "articles/es/013_diver_fails.md",
+    "published": "2026-02-26"
   }
 ]

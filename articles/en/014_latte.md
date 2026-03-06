@@ -19,7 +19,6 @@ The issue isn’t that small expenses don’t matter. They do. But focusing too 
 * Income growth
 * Housing costs
 * Investment habits
-* Time in the market
 
 These are the financial levers that actually move the needle.
 

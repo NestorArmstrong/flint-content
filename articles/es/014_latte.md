@@ -1,36 +1,35 @@
-# The Latte That’s Apparently Ruining Your Life
+# El Latte Que Te Está Arruinando La Vida
 
-According to financial folklore, wealth is just a few skipped lattes away. For years, the advice suggested by gurus and billionaires alike is that if people simply stopped buying coffee on the way to work, financial freedom would soon follow. 
+Según el folklore financiero, la riqueza está a solo unos cuantos lattes no comprados. Durante años, el consejo repetido por gurús y hasta por multimillonarios ha sido que si simplemente dejaras de comprar café camino al trabajo, la libertad financiera sería inminente.
 
-A $5 coffee every weekday comes out to about *$1,250 per year*. At a glance it sounds like a lot... until you compare it to the financial decisions that actually determine long-term wealth.
+Un café de $5 dólares cada día laboral suma alrededor de *$1,250 dólares* al año. A primera vista parece mucho… hasta que lo comparas con las decisiones financieras que realmente determinan la riqueza a largo plazo.
 
-For example:
-* Negotiating a **5-10% higher salary**.
-* Investing **$100 per month for decades**.
-* Choosing a slightly cheaper home or car.
+Por ejemplo:
+* Negociar un **incremento salarial de 5–10%**.
+* Invertir **$100 dólares al mes** durante décadas.
+* Elegir un hogar o un auto ligeramente más barato.
 
-Each of these decisions can impact your finances by **thousands, or even hundreds of thousands of dollars** over a lifetime. 
+Cada una de estas decisiones puede impactar tus finanzas por **miles, o incluso cientos de miles de dólares** a lo largo de tu vida.
 
-That latte doesn’t look so villainous anymore, does it?
+Ese latte ya no se ve tan importante, ¿verdad?
 
-## The Real Problem With “Latte Economics”
+## El Verdadero Problema de la “Economía Latte”
 
-The issue isn’t that small expenses don’t matter. They do. But focusing too much on tiny purchases can distract you from the decisions that truly shape financial outcomes:
-* Income growth
-* Housing costs
-* Investment habits
-* Time in the market
+El problema no es que los gastos pequeños no importen. Sí importan. Pero enfocarse demasiado en compras diminutas puede distraerte de las decisiones que realmente moldean los resultados financieros:
+* Crecimiento de ingresos
+* Costos de vivienda
+* Hábitos de inversión
 
-These are the financial levers that actually move the needle.
+Estas son las palancas financieras que realmente mueven la aguja.
 
-Cutting coffee might save a little money. But building wealth usually requires bigger decisions than skipping a cappuccino.
+Dejar de comprar café puede ahorrarte un poco de dinero. Pero construir verdadera riqueza normalmente requiere decisiones más grandes que saltarte un cappuccino en la mañana.
 
-## The Bigger Financial Lesson
+## La Lección Financiera Más Importante
 
-Ironically, the danger of the *“latte factor”* is psychological. It makes personal finance feel like a game of constant deprivation, where every small pleasure becomes a threat to your future.
+Irónicamente, el peligro del *“factor latte”* es psicológico. Hace que las finanzas personales se sientan como un juego de privación constante, donde cada pequeño gusto se convierte en una amenaza para el futuro.
 
-But long-term financial success rarely comes from eliminating small joys. It comes from consistency, investing, and focusing on the big decisions that shape your financial life.
+Pero el éxito financiero a largo plazo rara vez viene de eliminar pequeños placeres. Más bien proviene de la constancia, de invertir, y de enfocarte en las decisiones grandes que le dan forma a tu economía personal.
 
-The biggest financial mistakes rarely happen at the coffee counter. They happen in the big decisions we only make a few times in life.
+Los peores errores financieros rara vez ocurren en la barra de una cafetería. Ocurren en las grandes decisiones que tomamos unas cuantas veces en la vida.
 
-So enjoy the occasional latte. Just make sure you’re paying attention to the financial choices that actually matter.
+Así que disfruta el latte de vez en cuando. Solo asegúrate de prestar atención a las decisiones financieras que realmente importan.

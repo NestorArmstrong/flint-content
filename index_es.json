@@ -78,5 +78,13 @@
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/013_header.png",
     "file": "articles/es/013_diver_fails.md",
     "published": "2026-02-26"
+  },
+  {
+    "id": 11,
+    "title": "El Latte Que Te Está Arruinando La Vida",
+    "summary": "Desmentir una creencia común no es fácil. Pero a veces es necesario.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/014_header.png",
+    "file": "articles/es/014_latte.md",
+    "published": "2026-03-06"
   }
 ]

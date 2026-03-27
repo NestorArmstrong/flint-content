@@ -1,4 +1,4 @@
-# Las guerras golpean tu Bolsillo antes que a tu Portafolio
+# Las Guerras golpean tu Bolsillo antes que a tu Portafolio
 
 Cuando en las noticias hay pláticas de guerra, la mayoría de los inversionistas observan y estudian los mercados en busca de señales. Usualmente, las reacciones son las mismas: el petróleo sube, las acciones caen, la volatilidad aumenta, etc. 
 

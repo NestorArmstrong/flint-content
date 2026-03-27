@@ -4,7 +4,7 @@ When headlines talk about war, most investors look at markets for guidance. We t
 
 ## The Strait That Moves the World
 
-Roughly a fifth of the world’s oil flows through the Strait of Hormuz. When tensions rise in that region, oil doesn’t just respond to supply disruptions… it responds to fear of disruption. That’s where the real impact begins.
+Roughly a fifth of the world’s oil flows through the Strait of Hormuz. When tensions rise in that region, oil doesn’t just respond to supply disruptions… it responds to **fears of disruption**. That’s where the real impact begins.
 
 Higher oil prices don’t stay in energy markets. They move through the entire economy:
 * Transportation becomes more expensive

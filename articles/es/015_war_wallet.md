@@ -6,7 +6,7 @@ Pero el mayor impacto financiero de una guerra no aparece en tu portafolio, sino
 
 ## El Estrecho que mueve al Mundo
 
-Aproximadamente una quinta parte del petróleo mundial pasa por el Estrecho de Ormuz. Cuando aumentan las tensiones en esa región, el precio del petróleo no solo responde a interrupciones en el suministro, sino también al miedo de que esas interrupciones perduren. Ahí es donde se comienza a ver el verdadero impacto.
+Aproximadamente una quinta parte del petróleo mundial pasa por el Estrecho de Ormuz. Cuando aumentan las tensiones en esa región, el precio del petróleo no solo responde a interrupciones en el suministro, sino también al miedo que **esas interrupciones perduren**. Ahí es donde se comienza a ver el verdadero impacto.
 
 Los incrementos en precio no solo se quedan en el sector energético. Se transmiten a toda la economía:
 * El transporte se vuelve más caro

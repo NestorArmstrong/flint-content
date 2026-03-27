@@ -86,5 +86,13 @@
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/014_header.png",
     "file": "articles/en/014_latte.md",
     "published": "2026-03-06"
+  },
+  {
+    "id": 12,
+    "title": "Why Wars Hurt Your Wallet Before Your Portfolio",
+    "summary": "Armed conflicts are never easy. Especially for your personal finances.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/015_header.png",
+    "file": "articles/en/015_war_wallet.md",
+    "published": "2026-03-27"
   }
 ]

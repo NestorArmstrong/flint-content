@@ -24,8 +24,6 @@ Investors often focus on volatility during geopolitical events. But the more imp
 
 Because in the long run, wealth isn’t just about market returns. It’s about what your money can actually buy.
 
-War doesn’t just move markets. It moves prices. And over time, those price movements tend to reach everyone—regardless of whether they’re investing or not.
-
-In uncertain times like these, people tend to watch their portfolios like hawks. But the real pressure builds on their grocery lists, their utility bills and in how far their money actually goes.
+In uncertain times, people tend to watch their portfolios like hawks. But the real pressure builds on their grocery lists, their utility bills and on their credit card balance.
 
 So before you start to panic and sell your investments, remember that financial resilience doesn’t come from reacting to markets. It comes from how well you control your **cash flow**.

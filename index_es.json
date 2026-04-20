@@ -94,5 +94,13 @@
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/015_header.png",
     "file": "articles/es/015_war_wallet.md",
     "published": "2026-03-27"
+  },
+  {
+    "id": 13,
+    "title": "No es el Portafolio. Eres Tú.",
+    "summary": "La mayor amenaza para una inversión no es el mercado, sino su propio inversionista.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/016_header.png",
+    "file": "articles/es/not_portfolio_you.md",
+    "published": "2026-04-20"
   }
 ]

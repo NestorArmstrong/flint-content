@@ -4,7 +4,7 @@ When investment performance disappoints, the most basic instinct is to adjust th
 
 Yes, there can be times that a portfolio has issues. But usually that’s not the problem. 
 
-As we all know, markets move in cycles. Periods of growth are followed by corrections. Volatility is not an anomaly, it’s just a part of the process. And yet many investors treat it as a signal to act.
+As we all know, markets move in cycles. Periods of growth are followed by corrections. Volatility is not an anomaly, it’s just a part of the process. And yet many investors treat it as a signal to *act*.
 
 They sell when markets fall, trying to avoid further losses. They also buy when markets rise, because they’re afraid of missing out. The combination of these behaviors create a very destructive pattern: selling low and buying high.
 

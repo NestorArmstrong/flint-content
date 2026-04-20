@@ -94,5 +94,13 @@
     "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/015_header.png",
     "file": "articles/en/015_war_wallet.md",
     "published": "2026-03-27"
+  },
+  {
+    "id": 13,
+    "title": "It’s Not the Portfolio. It’s You.",
+    "summary": "The biggest threat to an investment isn't the market, but their investor.",
+    "image": "https://raw.githubusercontent.com/NestorArmstrong/flint-content/main/images/016_header.png",
+    "file": "articles/en/not_portfolio_you.md",
+    "published": "2026-04-20"
   }
 ]
